@@ -8,7 +8,7 @@ class HelloWorld
  public static void main(String [] args) 
 {
         // 输出此消息
-      System.out.println("谢鸡儿");
+      System.out.println("小俊哥");
     }
 
 }
